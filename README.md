@@ -7,7 +7,7 @@ This application recreates this painting based on it.
 Prerequisites: <br />
 Python 3.10 (written with 3.10.9) <br />
 Potentially, python-tk@3.10 package (example: 'brew install python-tk@3.10') <br />
-Pipenv (pip install pipenv)
+Pipenv ('pip install pipenv')
 
 
 1. Clone repository 
