@@ -1,5 +1,5 @@
 # million-dollar-app
-## Antipyrylazo 3 app painter
+## GUI Antipyrylazo 3 app painter
 In 1994 Damien Hirst painted a picture called 'Antipyrylazo 3' which was sold for over a million US dollars. <br />
 This application recreates this painting based on it.
 
