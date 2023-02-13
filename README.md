@@ -5,7 +5,7 @@ This application creates a painting based on it.
 
 ### To start:
 Prerequisites: <br />
-Python 3.x (written with 3.10.9, python-tk@3.10 package may be required) <br />
+Python 3.x (written with 3.10.9, python-tk@3.10 required) <br />
 Pipenv ('pip install pipenv') or another virtual environment
 
 1. Clone repository 
