@@ -1,7 +1,5 @@
 # painting-app
 ## TkInter Antipyrylazo 3 Application Painter
-Damien Hirst painted a picture called 'Antipyrylazo 3' <br />
-This application creates a painting based on it.
 
 ### To start:
 Prerequisites: <br />
