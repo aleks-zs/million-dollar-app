@@ -1,5 +1,5 @@
 # painting-app
-## TkInter Antipyrylazo 3 Application Painter
+## TkInter Pyrylazo Application
 
 ### To start:
 Prerequisites: <br />
